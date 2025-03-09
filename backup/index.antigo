@@ -1,0 +1,401 @@
+<!DOCTYPE html> <!--Tag para identificar o HTML5-->
+<html lang="pt-br"> <!--Linguagem da página-->
+ 
+<head>
+    <meta charset="UTF-8"> <!--Padronização da língua-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Autoriza a codificação para responsividade-->
+    <link rel="shortcut icon" href="img/logo19.png" type="image/x-icon">
+    <title>BooksAndFun</title> <!--Titulo da Guia-->
+    <!--RESET SEMPRE O PRIMEIRO LINK-->
+    <link rel="stylesheet" href="css/reset.css">
+ 
+    <!--Animação do Carrossel Slick-->
+ 
+    <link rel="stylesheet" type="text/css" href="css/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="css/slick-theme.css"/>
+ 
+     <!--Animação do video-->
+    <link rel="stylesheet" href="css/lity.css">
+ 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+       
+    <!--MINHA FOLHA DE ESTILO SEMPRE SERÁ O ÚLTIMO LINK-->
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+ 
+ 
+<body class=><!--Inicio do corpo-->
+    <header><!--Inicio Cabeçalho-->
+      <div class="logo">
+        <img src="img/logo19.png" alt="Nome da Livraria">
+    </div>
+           
+       
+        <section class="banner">
+           
+            <h1>Reserve o seu livro</h1>
+            <img src="img/livraria.img.png" alt="Banner 1">
+            <!-- <div>
+                <img src="img/1.png" alt="Logo da Empresa" class="logo">
+            </div> -->
+           
+        </section>
+       
+        <!-- <div> -->
+        <section class="site">
+            <article class="menu">
+                <a href="index.html">
+                </a>
+               
+                <nav>
+                   
+                    <ul>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="sobre.php">Sobre</a></li>
+                       
+                        <li><a href="#">Blog</a></li>
+                       
+                    </ul>
+                </nav>
+            <!-- <article class="topo">
+                <div class="contato">
+                    <a href="mailto:contato@mestremotores.com.br">
+                        <img src="img/1.png" alt="Email Mestre Motores"> -->
+                        <!-- <p>contato@mestremotores.com.br</p> -->
+                    <!-- </a> -->
+                    <!-- <a href="tel:+551199999999"> -->
+                        <!-- <img src="img/iconeTel.svg" alt="Telefone Mestre Motores"> -->
+                        <!-- <p>11933400719</p> -->
+                    <!-- </a> -->
+                <!-- </div> -->
+                <!-- <div>
+                    <a href="#"><img src="img/iconeWhats.svg" alt="Whatsapp"></a>
+                    <a href="#"><img src="img/iconeInsta.svg" alt="Instagram"></a>
+                    <a href="#"><img src="img/iconeFace.svg" alt="Facebook"></a>
+                    <a href="#"><img src="img/iconeTwitter.svg" alt="Twitter"></a>
+                    <a href="#" id="modoDark"> <img class="icone-dark" src="img/dark.png" alt=""></a>
+                </div> -->
+            </article>
+ 
+                <!-- <a href="index.html">
+                 <h1 class="animate__animated animate__pulse animate__infinite"> Logo Mestre Motores</h1>
+                </a> -->
+               
+           
+        </section>
+    </div>
+    </header>
+    <main>
+       
+                <div class="videosobre">
+                    <a href="https://www.youtube.com/watch?v=wWGnQ0chKeY"><img src="img/botao-play (1).png" alt="play mestremotores"></a>
+                </div>
+        </section>
+        <section class="sobre">
+            <article class="site">
+                <div class="texto-Sobre">
+                   
+                    <div>
+                        <a href="https://maps.app.goo.gl/KDbNffkBQTmAh5px5">
+                        <!-- <div>
+                            <img class="img-light" src="img/local.png" alt="Endereço">
+                            <img class="img-dark" src="img/local-branco.png" alt="Endereço"> -->
+                            <!-- <div>
+                                <p>Estamos localizados em</p>
+                                <p>Av. da Cultura, 1234</p>
+ 
+                            </div>
+                        </div> -->
+                        </a>
+                        <a href="">
+                        <!-- <div>
+                            <img class="img-light" src="img/contato.png" alt="Contato">
+                            <img class="img-dark" src="img/contato-branco.png" alt="Contato">
+                            <div>
+                                <p>Contato</p>
+                                <p>(11) 988 620 365</p>
+                            </div>
+                        </div> -->
+                    </a>
+                   
+                    </div>
+                    </section>
+                   
+                   
+               
+                </article>
+                </div>
+                <section class="apresentacao">
+                    <article class="site">
+                    <div class="textoa">
+                     <div>
+                        <h3>Acabaram</h3>
+                        <h2>de chegar!</h2>
+                    </div>
+                       
+                    </div>
+                </article>
+                    </section>
+ 
+                <section class="galeria">
+                   
+                    <img src="img/livro1.jpg" alt="">
+                    <img src="img/ateoveraoterminar.jpg" alt="">
+                    <img src="img/senhorita.auror.jpg" alt="">
+                    <img src="img/todoessetempo.jpg" alt="">
+                    <img src="img/algunserroscometidos.jpg" alt="">
+                    <img src="img/tentativa.jpg" alt="">
+                    <img src="img/aqui.jpeg" alt="">
+                </section>
+                <!-- Fim Galeria -->
+ 
+               
+ 
+               
+                <!-- <div class="videosobre">
+                    <a href="https://www.youtube.com/watch?v=ZFWC4SiZBao&list=RDZFWC4SiZBao&start_radio=1" data-lity><img src="img/Botão-Youtube-PNG.png" alt="play"></a>
+                </div>      -->
+        </section>
+       
+        <!--Inicio outros serviços-->
+        <section class="especialidades">
+            <article class="site">
+   
+                    <div class="conteudoEspecialidade">
+                        <h3>Escolha Seu</h3>
+                        <h2>Próximo Livro</h2>
+                        <!-- <h2>Especialidades que Fazem a Diferença</h2> -->
+                        <div class="especialidade1">
+                            <img src="img/espaco12.png" alt="Especialidade em Motores de Alto Desempenho">
+                                <h4>Explore Nossos Gêneros
+                                   </h4>
+                                <p>Na Books&Fun, acreditamos que cada jovem leitor deve encontrar histórias que ressoem com suas paixões e interesses. Por isso, oferecemos uma ampla seleção de gêneros literários, cuidadosamente escolhidos para inspirar e encantar.</p>
+                        </div>
+                        <div class="especialidade2" style="display: none;">
+                            <img src="img/fotoEspecialidade2.png" alt="Especialidade em Motores de Alto Desempenho">
+                                <h4>Limpeza de estofado</h4>
+                                <p>
+                                    Na Mestre dos Motores, utilizamos tecnologia de ponta para realizar diagnósticos avançados e reparação eletrônica de veículos de alta performance. Nossos especialistas são treinados para identificar e corrigir problemas nos sistemas eletrônicos mais complexos, garantindo a otimização de desempenho e a durabilidade do seu motor. Com ferramentas de última geração, oferecemos um serviço preciso e eficaz, seja para detecção de falhas ou para atualizações de software e componentes eletrônicos.</p>
+                        </div>
+                        <div class="especialidade3" style="display: none;">
+                            <img src="img/fotoEspecialidade3.png" alt="Especialidade em Motores de Alto Desempenho">
+                                <h4>Limpeza de estofado</h4>
+                                <p>
+                                    Se você busca elevar o desempenho do seu veículo a um novo patamar, nossos serviços de instalação e otimização de turbo e supercharger são a solução ideal. Na Mestre dos Motores, projetamos e ajustamos sistemas de sobrealimentação para maximizar a potência do motor, sem comprometer a confiabilidade. Com nossa experiência, garantimos o equilíbrio perfeito entre força, velocidade e eficiência, seja para veículos de competição ou de uso diário.</p>
+                        </div>
+                        <div class="especialidade4" style="display: none;">
+                            <img src="img/fotoEspecialidade4.png" alt="Especialidade em Motores de Alto Desempenho">
+                                <h4>Limpeza de estofado</h4>
+                                <p>
+                                    A Mestre dos Motores oferece serviços completos de reparação e retífica de motores, focados em restaurar seu veículo às condições ideais de funcionamento. Trabalhamos com motores esportivos e de alto desempenho, garantindo que cada componente seja meticulosamente revisado e ajustado para manter a potência e a longevidade. Nossos serviços incluem retífica de cilindros, cabeçotes, virabrequins, e muito mais, utilizando equipamentos de precisão e materiais de alta qualidade.</p>
+                        </div>
+                        <div class="especialidade5" style="display: none;">
+                            <img src="img/fotoEspecialidade5.png" alt="Especialidade em Motores de Alto Desempenho">
+                                <h4>Limpeza de estofado</h4>
+                                <p>
+                                    Especialistas em adaptações e conversões, oferecemos preparação de motores para conversões de combustível, ajustando o seu veículo para funcionar com etanol, GNV ou outros combustíveis alternativos. Na Mestre dos Motores, analisamos o sistema de injeção, ignição e a compressão do motor, garantindo que a mudança seja realizada com segurança, eficiência e o máximo de desempenho, tanto para uso em ruas quanto em competições.</p>
+                        </div>
+                        <div class="especialidade6" style="display: none;">
+                            <img src="img/fotoEspecialidade6.png" alt="Especialidade em Motores de Alto Desempenho">
+                                <h4>Limpeza de estofado</h4>
+                                <p>
+                                    A estabilidade e a precisão do seu veículo são fundamentais para uma condução segura e de alta performance. Por isso, na Mestre dos Motores, oferecemos serviços especializados em suspensão e direção, ajustando cada detalhe para que você tenha controle total em qualquer condição. Desde calibração de suspensão esportiva até ajustes de direção para máxima precisão, nossos serviços garantem que seu carro esteja pronto para encarar as pistas ou estradas com total confiança.</p>
+                        </div>
+ 
+                    </div>
+ 
+                    <!-- <div class="boxEspecialidade">
+                        <h6>outras</h6>
+                        <h5>especialidades</h5>
+                        <a href="#" id="especialidade1">
+                           
+                        <div class="ativo">
+                            <img src="img/motor-de-carro (1) (1).png" alt="">
+                            <p>Especialidade em Motores de Alto Desempenho</p>
+                        </div>
+                        </a>
+                        <a href="#" id="especialidade2">
+                           
+                            <div>
+                                <img src="img/motor-de-carro (1) (1).png" alt="">
+                                <p>Diagnóstico Avançado e Reparação Eletrônica</p>
+                            </div>
+                            </a>
+                        <a href="#" id="especialidade3">
+                           
+                                <div>
+                                    <img src="img/motor-de-carro (1) (1).png" alt="">
+                                    <p>Serviços de Turbo e Superchargero</p>
+                                </div>
+                                </a>  
+                        <a href="#" id="especialidade4">
+                           
+                                    <div>
+                                        <img src="img/motor-de-carro (1) (1).png" alt="">
+                                        <p>Reparação e Retífica de Motores</p>
+                                    </div>
+                                    </a>
+                        <a href="#" id="especialidade5">
+                           
+                                        <div>
+                                            <img src="img/motor-de-carro (1) (1).png" alt="">
+                                            <p>Preparação de Motores para Conversões de Combustível</p>
+                                        </div>
+                                        </a>  
+                        <a href="#" id="especialidade6">
+                           
+                                            <div>
+                                                <img src="img/motor-de-carro (1) (1).png" alt="">
+                                                <p>Serviços de Suspensão e Direção de Alta Precisão</p>
+                                            </div>
+                                            </a>          
+                       
+                    </div> -->
+            </article>
+        </section>
+        <!--Fim especialidades-->
+        <!--Inicio Galeria-->
+       
+ 
+        <!-- <section class="servico">
+            <article class="site">
+                <div class="textoServiço">
+                    <div>
+                        <h3>Conheça Nosso Espaço </h3>
+                        <h2>e Serviços </h2>
+                    </div>
+                 <button>Clique aqui</button>
+                </div>
+                <div class="conteudoServico">
+                    <div>
+                        <img src="img/kid.jpg" alt="Serviço 1">
+                        <div>
+                            <h4>Leitura para Crianças:</h4>
+                            <p>Realizamos inspeções detalhadas e manutenções regulares para evitar problemas futuros e garantir a longevidade do seu motor.</p>
+                    </div>
+            </div>
+            <div>
+                <img src="img/servico.1.png" alt="Serviço 1">
+                <div>
+                    <h4>Serviços de Encomenda</h4>
+                    <p>Seja um problema simples ou uma questão complexa, nossa equipe está pronta para diagnosticar e reparar qualquer falha no motor, utilizando peças de alta qualidade e técnicas avançadas.</p>
+            </div>
+    </div>
+    <div>
+        <img src="img/servico.1.png" alt="Serviço 1">
+        <div>
+            <h4>Troca de Óleo e Filtros:</h4>
+            <p>Mantenha o motor do seu veículo funcionando suavemente com nossos serviços de troca de óleo e filtros, utilizando produtos de primeira linha que aumentam a eficiência e a durabilidade.</p>
+    </div>
+</div>
+<div>
+    <img src="img/servico.1.png" alt="Serviço 1">
+    <div>
+        <h4>Ajustes e Regulagens:</h4>
+        <p>Deixe o motor do seu carro em sintonia perfeita. Realizamos ajustes precisos para garantir a máxima performance e economia de combustível.</p>
+</div>
+</div>
+</div>
+            </article>
+        </section> -->
+ 
+        <!--Fim Galeria-->
+        <section class="blog">
+            <article class="site">
+                <div class="textoBlog">
+                    <div>
+                        <h3>Blog</h3>
+                        <h2>A trilogia que virou série</h2>
+                    </div>
+                 <!-- <button>ver todas as notícias</button> -->
+                </div>
+                <div class="conteudoBlog">
+                    <div>
+                        <img src="img/maisoutro.jpg" alt="Blog 1">
+                        <div>
+                           
+                            <p>O verão que <br> mudou minha vida</p>
+                            <!-- <button>leia mais>>></button> -->
+                    </div>
+            </div>
+            <div>
+                <img src="img/maisum.jpg" alt="Blog 2">
+                <div>
+                   
+                    <p>Sem você <br>não é verão</p>
+                    <!-- <button>leia mais>>></button> -->
+            </div>
+    </div>
+    <div>
+        <img src="img/maisoutroo.jpg" alt="Blog 3">
+        <div>
+           
+            <p>Sempre teremos <br>o nosso verão</p>
+            <!-- <button>leia mais>>></button> -->
+    </div>
+</div>
+ 
+</div>
+            </article>
+        </section>      
+ 
+       
+ 
+ 
+    </main>
+    <footer>
+        <section class="rodape">
+            <article class="site">
+                <div>
+                   
+                <p>Descubra um mundo de histórias e conhecimento!
+                  Visite-nos: Av. da Cultura, 1234 |
+                  Siga-nos nas redes sociais: [Links para redes sociais]
+                </p>
+               
+                <!-- <div class="redeSocial">
+                    <a href="#"><img src="img/iconequadradoFace.jpg" alt="Facebook"></a>
+                    <a href="#"><img src="img/iconequadradoInsta.jpg" alt="Instagram"></a>
+                    <a href="#"><img src="img/iconequadradoWhats.jpg" alt="WhatsApp"></a>
+                    <a href="#"><img src="img/iconequadradoWhats.jpg" alt="Twitter"></a>
+                </div> -->
+                </div>
+                <nav class="sobre">
+                    <h2>Sobre Nós</h2>
+                    <!-- <ul>
+                       <a href="#"><li>Sobre</li></a>
+                        <a href=""><li>Blog</li></a>
+                     
+                    </ul> -->
+                </nav>
+                <nav class="servico">
+                   
+                        <h2>Serviços</h2>
+                        <!-- <ul>
+                            <a href="#"><li>Serviços de Venda de Livros</li></a>
+                            <a href=""><li>Serviços de Encomenda</li></a>
+                           <a href="#"><li>Eventos e Atividades</li></a>
+                            <a href=""><li>Serviços de Entrega</li></a>
+                            <a href=""><li>Consultoria Literária</li></a>
+                            <a href=""><li>Revisão Completa de Freios</li></a>
+                            <a href=""><li>Vendas Corporativas</li></a>
+                        </ul> -->
+                    </nav>
+               
+            </article>
+            <p>Copyright © 2024 - Todos os diretitos reservados | SENAC SMP - TI26</p>
+        </section>
+    </footer>
+ 
+    <!--JQUERY obrigatório para animação-->
+    <script type="text/javascript" src="//code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-3.5.0.min.js"></script>
+    <!--Animação CARROSSEL Slick-->
+    <script type="text/javascript" src="js/slick.min.js"></script>
+    <script src="js/lity.js"></script>
+    <!--Minha animação sempre por último-->
+    <script type="text/javascript" src="js/js.animation.js"></script>
+</body>
+</html>
+ 
