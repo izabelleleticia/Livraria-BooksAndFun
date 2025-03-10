@@ -4,7 +4,10 @@
             <h1>Seção dos Achados e Perdidos</h1>
             <p>Ainda está em dúvida sobre o que comprar? Descubra nossas categorias e encontre o que você procura:</p>
         </div>
+        <div class="h2">
         <h2>Ficção</h2>
+        </div>
+        
         
         <div class="livrosFiccao">
             <div>
@@ -25,7 +28,9 @@
             </div>
         </div>
       
+        <div class="h2">
         <h2>Romance</h2>
+        </div>
         <div class="livrosRomance">
             <div>
                 <img src="img/umencontro.jpg" alt="">

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!--Autoriza a codificação para responsividade-->
     <!-- <link rel="shortcut icon" href="img/logo_077.png" sizes="90x90" type="image/x-icon"> -->
-    <title>BooksAndFun</title> <!--Titulo da Guia-->
+    <title>Site | BooksAndFun</title> <!--Titulo da Guia-->
     <!--RESET SEMPRE O PRIMEIRO LINK-->
     <link rel="stylesheet" href="css/reset.css">
  
