@@ -5,7 +5,7 @@
         </div>
         <div class="livrosDestaque">
             <div>
-            <img src="img/acoroa.jpg" alt="">
+            <a href="pag-livro.php"><img src="img/acoroa.jpg" alt=""></a>
             <p>A coroa<br>R$30,00</p>
             </div>
             <div>
