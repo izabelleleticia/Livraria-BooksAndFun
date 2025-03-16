@@ -26,6 +26,7 @@
                 <li><a href="blog.php">Blog</a></li>
                 <li><a href="index.php">Home</a></li>
                 <li><a href="contato.php">Contato</a></li>
+                <li><a href="cadastro.php">Cadastro</a></li>
             </ul>
         </nav>
     </div>

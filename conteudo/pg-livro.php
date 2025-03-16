@@ -7,5 +7,6 @@
     </div>
     <h1>Senhorita Aurora</h1>
     <h2>Babi A. Sette</h2>
+    <button>Comprar</button>
     <div></div>
 </section>

@@ -55,7 +55,10 @@ header .left {
 .LogoNav img {
     margin-top: -31px;
     height: 148px;
-    padding-right: 667px;
+}
+.LogoNav .cadastro{
+    height: 40px;
+    margin-top: -10px;
 }
 
 /* Estilizando a navegação */
@@ -354,7 +357,7 @@ nav ul li a {
 }
 
 .Recomendacoes {
-    padding-left: 360px;
+    padding-left: 200px;
     gap: 50px;
 }
 
@@ -532,6 +535,14 @@ nav ul li a {
     justify-content: center;
     align-items: center;
 }
+.formContato .mensagem p{
+    margin-top: 10px;
+    color: #ffffff;
+    
+}
+.formContato .mensagem a{
+    text-decoration: none;
+}
 
 .formContato h1 {
     font-family: 'interSemiBold';
@@ -554,6 +565,18 @@ nav ul li a {
     margin-bottom: 15px;
 }
 
+.campo .campo2 {
+    display: flex;
+    align-content: space-around;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.campo .campo2 label {
+    padding: unset;
+    padding-left: 25px;
+}
+
 .campo label {
     display: block;
     font-weight: bold;
@@ -572,6 +595,7 @@ nav ul li a {
     background-color: #D9D9D9;
     height: 24px;
     font-family: 'interSemiBold';
+    text-align: center;
 
 }
 
@@ -678,52 +702,55 @@ nav ul li a {
 
 /* RESPONSIVO 1024PX */
 @media (max-width: 1024px) {
-.LogoNav {
+    .LogoNav {
         display: flex;
         justify-content: space-around;
     }
 
-.LogoNav img {
+    .LogoNav img {
         margin-top: -31px;
         height: 148px;
         padding-right: 535px;
         padding-left: 21px;
-}
+    }
 
     /* Estilizando a navegação */
-.LogoNav nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
+    .LogoNav nav ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
         /* Deixa os itens na mesma linha */
-    margin-top: 31px;
-}
+        margin-top: 31px;
+    }
 
     /* Espaço entre os links */
-nav ul li {
+    nav ul li {
         margin-right: 40px;
-}
+    }
 
     /* Estilo dos links */
-nav ul li a {
-    text-decoration: none;
-    color: #ffffff;
-    font-weight: bold;
-}
-.SecaoAchados .livrosFiccao {
+    nav ul li a {
+        text-decoration: none;
+        color: #ffffff;
+        font-weight: bold;
+    }
 
-    margin-top: 20px;
-    display: flex;
-    justify-content: center;
-    gap: 140px;
-    padding-right: 73px;
+    .SecaoAchados .livrosFiccao {
 
-}
-.SecaoAchados .h2 h2{
-    padding-left: 60px;
-}
-.SecaoAchados .livrosRomance {
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        gap: 140px;
+        padding-right: 73px;
+
+    }
+
+    .SecaoAchados .h2 h2 {
+        padding-left: 60px;
+    }
+
+    .SecaoAchados .livrosRomance {
 
         margin-top: 20px;
         display: flex;
@@ -741,7 +768,7 @@ nav ul li a {
         gap: 120px;
         padding-right: 83px;
     }
-    
+
 
 
 }

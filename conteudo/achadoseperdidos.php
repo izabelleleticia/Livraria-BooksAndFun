@@ -11,7 +11,8 @@
         
         <div class="livrosFiccao">
             <div>
-            <a href="pag-livro.php"></a>    
+            <a href="pag-livro.php"><img src="img/abiblioteca.jpg" alt=""> </a>  
+             
                 <p>A biblioteca <br>R$49,50</p>
             </div>
             <div>
