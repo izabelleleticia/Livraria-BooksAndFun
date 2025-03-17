@@ -357,7 +357,7 @@ nav ul li a {
 }
 
 .Recomendacoes {
-    padding-left: 200px;
+   justify-content: center;
     gap: 50px;
 }
 
@@ -446,10 +446,11 @@ nav ul li a {
     margin-top: 80px;
 
     font-family: 'interRegular';
-    text-align: center;
+    text-align: justify;
     padding-left: 10px;
-    padding-right: 100px;
+    padding-right: 200px;
     line-height: 25px;
+
 }
 
 .Filme img {
@@ -639,6 +640,11 @@ nav ul li a {
     padding: 30px 90px;
     text-align: center;
 
+}
+.rodape .top{
+    height: 20px;
+    background-color: #BB87E9;
+    margin-top: -100px
 }
 
 .rodape-container {
