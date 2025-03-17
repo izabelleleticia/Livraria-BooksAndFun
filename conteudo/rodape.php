@@ -1,6 +1,10 @@
 
 <footer class="rodape">
+<<<<<<< HEAD
 
+=======
+<div class="top"></div>
+>>>>>>> 8793663 (Alterações CSS - página blog)
     <div class="rodape-container">
         <nav class="Contato">
             <h1>Contato</h1>
