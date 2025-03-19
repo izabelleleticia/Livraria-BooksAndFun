@@ -5,15 +5,12 @@
             <p>Ainda está em dúvida sobre o que comprar? Descubra nossas categorias e encontre o que você procura:</p>
         </div>
         <div class="h2">
-        <h2>Ficção</h2>
-        <h3>teste github</h3>
+            <h2>Ficção</h2>
         </div>
-        
-        
         <div class="livrosFiccao">
             <div>
-            <a href="pag-livro.php"><img src="img/abiblioteca.jpg" alt=""> </a>  
-             
+                <a href="pag-livro.php"><img src="img/abiblioteca.jpg" alt=""> </a>
+
                 <p>A biblioteca <br>R$49,50</p>
             </div>
             <div>
@@ -29,9 +26,9 @@
                 <p>Os sete maridos <br> de Evelyn Hugo <br>R$50,00</p>
             </div>
         </div>
-      
+
         <div class="h2">
-        <h2>Romance</h2>
+            <h2>Romance</h2>
         </div>
         <div class="livrosRomance">
             <div>
@@ -51,7 +48,7 @@
                 <p>A malição <br>do ex<br>R$50,00</p>
             </div>
         </div>
-       
+
         <h2>Conheça: A Trilogia que Virou Série</h2>
         <div class="secaoSerie">
             <div>
@@ -67,8 +64,8 @@
                 <p>Sempre teremos o nosso verão<br>R$50,00</p>
             </div>
         </div>
-        
+
 
     </article>
-    
+
 </section>
