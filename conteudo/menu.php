@@ -10,7 +10,7 @@
                 <li><a href="blog.php">blog</a></li>
                 <li><a href="contato.php">contato</a></li>
                 <a href="cadastro.php"><img class="cadastro" src="img/cadastro.png" alt=""></a>
-                teste
+               
             </ul>
 
         </nav>

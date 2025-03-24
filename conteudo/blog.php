@@ -4,31 +4,31 @@
     <div class="Recomendacoes">
         <div>
             <img src="img/domquixotee.webp" alt="Domquixote">
-            <p>Dom Quixote <br> 
-            Miguel de Cervantes</p>
+            <p>Dom Quixote <br>
+                Miguel de Cervantes</p>
         </div>
         <div>
             <img src="img/1984.jpg" alt="Domquixote">
             <p>1984 <br>
-            George Orwell
+                George Orwell
             </p>
         </div>
         <div>
             <img src="img/orgulhoepreconceito.webp" alt="Domquixote">
             <p>Orgulho e Preconceito <br>
-            Jane Austen
+                Jane Austen
             </p>
         </div>
         <div>
             <img src="img/osoleparatodos.jpg" alt="Domquixote">
             <p>O Sol é Para Todos <br>
-            Harper Lee
+                Harper Lee
             </p>
         </div>
         <div>
             <img src="img/cemanosdesolidao.jpg" alt="Domquixote">
             <p>Cem Anos de Solidão <br>
-            Gabriel García Márquez
+                Gabriel García Márquez
             </p>
         </div>
         <div>
@@ -84,7 +84,7 @@
                 <img src="img/appletv.webp" alt="appletv">
                 <p>Disponível para compra ou aluguel.</p>
             </div>
-<p>Além disso, o filme está disponível para compra ou aluguel em outras plataformas digitais, como o YouTube Filmes.</p>
+            <p>Além disso, o filme está disponível para compra ou aluguel em outras plataformas digitais, como o YouTube Filmes.</p>
         </div>
     </div>
 </section>
