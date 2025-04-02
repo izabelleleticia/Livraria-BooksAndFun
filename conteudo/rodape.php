@@ -1,7 +1,4 @@
 <footer class="rodape">
-
-        
-
     <div class="rodape-container">
         <nav class="Contato">
             <h1>Contato</h1>
